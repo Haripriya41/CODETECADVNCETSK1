@@ -1,4 +1,4 @@
-CODTECHTask1 Name:HARIPRIYA K T Company:CODTECH IT SOLUTIONS ID:CTO8DQR Domain:Data Science Duration:December12th,2024 to January 12th,2025 Mentor:Neela Santhosh
+
 Project Description: Loan Approval Prediction
 Objective:
 The objective is to predict whether a loan will be approved (Loan_Status) based on certain applicant attributes using a Decision Tree Classifier.
